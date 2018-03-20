@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YoutubeViewpagerDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="youtube_apikey">your youtube api key here</string>
+
+    <string-array name="youtube_video_list">
+        <item>https://youtu.be/cat8ItnQxbA</item>
+        <item>https://youtu.be/QtuWTHHzfXE</item>
+        <item>https://youtu.be/FrUKGoBkVvI</item>
+        <item>https://youtu.be/BEULybZnLO8</item>
+        <item>https://youtu.be/Oc6EW6gGJC8</item>
+    </string-array>
+</resources>
